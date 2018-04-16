@@ -1,0 +1,4 @@
+[
+  "test_server.py::test_server_sends_qs_back_no_msg",
+  "test_server.py::test_server_sends_qs_back"
+]
